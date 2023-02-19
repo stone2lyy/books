@@ -1,18 +1,3 @@
-<style>
-table {
- margin: 15px auto;
- table-layout:fixed;
- max-width: 96vw;
-}
-table td {
- border: 1px solid #dedede; /*内部边框样式*/
- padding: 0 10px; /*内边距*/
-}
-table div {
-  width: 600px;
-}
-</style>
-
 # 利用github Active 一键自动部署策略实盘程序(python)
 
 # &emsp;写在前面
